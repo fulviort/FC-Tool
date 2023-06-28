@@ -25,3 +25,6 @@ dict_inflacion_31_12_2022 = {'2000': 5.0709,
 
 monto_conformato = "{:,}"
 many_points = '.' * 15
+
+
+prueba_fc = "asd"
